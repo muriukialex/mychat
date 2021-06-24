@@ -14,8 +14,8 @@
   - Internet connectivity
   - Sound head 😂
 
-## usage
-1. Navgigate to [create an account on mychat](http://localhost/MyChatApp/signup.php) to create a new user account
+## Basic Usage
+1. Navigate to [create an account on mychat](http://localhost/MyChatApp/signup.php) to create a new user account
 2. Sign In
 3. Enjoy limitless capabilities of mychat app 🤣
 
