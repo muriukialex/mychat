@@ -1,4 +1,4 @@
-    ###mychat
+###mychat
     mychat is a web chat application built on PHP
 
 ##Mychat - Your normal chat application 
